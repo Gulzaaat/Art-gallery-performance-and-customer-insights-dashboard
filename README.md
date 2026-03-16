@@ -2,6 +2,11 @@
 
 This dashboard visualizes and analyzes data related to an art gallery, focusing on exhibitions, artworks, artists, transactions, and customers. It provides insights into artwork mediums, exhibition statistics, customer demographics, and transactions.
 
+![image alt](https://github.com/Gulzaaat/Art-gallery-performance-and-customer-insights-dashboard/blob/a3e987973254746305daacee860f7de3104ded73/art1.png)
+![image alt](https://github.com/Gulzaaat/Art-gallery-performance-and-customer-insights-dashboard/blob/a3e987973254746305daacee860f7de3104ded73/art2.png)
+![image alt](https://github.com/Gulzaaat/Art-gallery-performance-and-customer-insights-dashboard/blob/a3e987973254746305daacee860f7de3104ded73/art3.png)
+![image alt](https://github.com/Gulzaaat/Art-gallery-performance-and-customer-insights-dashboard/blob/a3e987973254746305daacee860f7de3104ded73/art4.png)
+
 #### **Key Features and Data Structure:**
 
 1. **Star Schema Data Model**:
